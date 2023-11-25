@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "name": "counter",
+      "path": "./sources/counter.tact",
+      "output": "./output"
+    }
+  ]
+}

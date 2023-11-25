@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "tact --config ./tact.config.json",
+    "deploy": "ts-node deploy.ts"
+  },
+  "dependencies": {
+    "@tact-lang/deployer": "^0.2.0",
+    "base64url": "^3.0.1",
+    "qs": "^6.11.2"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.10"
+  }
+}
